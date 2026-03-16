@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "なんでもない (のに)",
+  "base_artist": "窓際ぼっち倶楽部",
+  "createdAt": "2026-03-16T09:45:54.763295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なんでもない (のに)",
+      "artist": "窓際ぼっち倶楽部",
+      "has_synced": false,
+      "path": "select/01_なんでもない_(のに)_窓際ぼっち倶楽部.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんでもない (のに)",
+      "artist": "窓際ぼっち倶楽部",
+      "has_synced": false,
+      "path": "select/pl_01_なんでもない_(のに)_窓際ぼっち倶楽部.txt"
+    }
+  ]
+}
